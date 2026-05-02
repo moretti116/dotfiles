@@ -1,0 +1,3 @@
+[[plugin]]
+name = "*.md"
+run = "glow -p $1"
